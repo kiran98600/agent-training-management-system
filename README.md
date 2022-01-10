@@ -1,29 +1,8 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### Agent Training Management System
+Agent Training Management System is a solution for Insurance company to traing their agents , certified them and keep their record .
+### Installation
+   - Install Nodejs(Recommeded Version > 10.0.1) , Mysql In you machine
+   - Clone project
+   - cd agent-training-management-system
+   - npm i 
+   - npm run start
